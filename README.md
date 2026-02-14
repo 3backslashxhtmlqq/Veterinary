@@ -1,4 +1,5 @@
 <img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/85c61fce-dafd-4c63-a4d4-fa4462b4515a" />
+
 # Telegram-бот для учета услуг ветеринарной клиники
 
 ## Описание проекта
